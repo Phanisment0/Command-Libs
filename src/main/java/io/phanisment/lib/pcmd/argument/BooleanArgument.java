@@ -1,4 +1,4 @@
-package io.phanisment.lib.command.argument;
+package io.phanisment.lib.pcmd.argument;
 
 import org.bukkit.command.CommandSender;
 import java.util.List;

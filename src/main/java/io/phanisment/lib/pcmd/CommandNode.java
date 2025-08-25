@@ -1,9 +1,9 @@
-package io.phanisment.lib.command;
+package io.phanisment.lib.pcmd;
 
 import org.bukkit.command.CommandSender;
 import org.bukkit.command.ConsoleCommandSender;
 
-import io.phanisment.lib.command.argument.IArgument;
+import io.phanisment.lib.pcmd.argument.IArgument;
 
 import java.util.Map;
 import java.util.HashMap;

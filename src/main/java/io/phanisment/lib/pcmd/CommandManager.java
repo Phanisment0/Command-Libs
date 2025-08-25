@@ -1,4 +1,4 @@
-package io.phanisment.lib.command;
+package io.phanisment.lib.pcmd;
 
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.TabCompleter;

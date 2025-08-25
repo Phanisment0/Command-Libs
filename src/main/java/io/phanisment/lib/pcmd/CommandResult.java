@@ -1,4 +1,4 @@
-package io.phanisment.lib.command;
+package io.phanisment.lib.pcmd;
 
 public class CommandResult {
 	private String prefix = "";
