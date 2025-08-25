@@ -1,0 +1,5 @@
+jdk:
+- openjdk21
+
+publish:
+  group: io.phanisment
